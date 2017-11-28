@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'Compatil Fact LT Com Regular';
+	src: url('../Compatil Fact LT Com Regular/Compatil Fact LT Com Regular.eot');
+	src: url('../Compatil Fact LT Com Regular/Compatil Fact LT Com Regular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Compatil Fact LT Com Regular/Compatil Fact LT Com Regular.woff') format('woff'),
+		 url('../fonts/Compatil Fact LT Com Regular/Compatil Fact LT Com Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Compatil Fact LT Com Bold';
+	src: url('../Compatil Fact LT Com  Bold/Compatil Fact LT Com Bold.eot');
+	src: url('../Compatil Fact LT Com Bold/Compatil Fact LT Com Bold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Compatil Fact LT Com Bold/Compatil Fact LT Com Bold.woff') format('woff'),
+		 url('../fonts/Compatil Fact LT Com Bold/Compatil Fact LT Com Bold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+	url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
